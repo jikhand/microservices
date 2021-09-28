@@ -1,0 +1,10 @@
+package com.jit.oo1.repository;
+
+
+import org.springframework.data.repository.Repository;
+
+import com.jit.oo1.model.Student;
+
+public interface StudentRepository extends Repository<Student,Integer> {
+
+}

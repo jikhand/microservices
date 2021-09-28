@@ -1,0 +1,7 @@
+package com.jit.oo1.service;
+
+import com.jit.oo1.model.Student;
+
+public interface StudentService {
+	Student save(Student student);
+}

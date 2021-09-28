@@ -1,0 +1,17 @@
+package com.jit.oo1.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.jit.oo1.model.Student;
+import com.jit.oo1.repository.StudentRepository;
+
+public class StudentServiceImpl implements StudentService {
+	
+	@Autowired StudentRepository studentRepositoy;
+
+	@Override
+	public Student save(Student student) {
+		return studentRepositoy.save(student);
+	}
+
+}
