@@ -12,4 +12,4 @@ spring:
           #passphrase: 
           uri: https://github.com/khandajitesh/microservices
           search-paths: 
-          - 'spring-cloud-config-store/profile-service/*service'
+          - 'spring-cloud-config-store/*service'

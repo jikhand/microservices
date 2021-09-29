@@ -5523,3 +5523,68 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2021-09-29 20:17:48,187 [Worker-31: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
 2021-09-29 20:17:49,384 [Worker-31: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
 2021-09-29 20:17:50,671 [Worker-31: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:32:50,221 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 20:32:50,222 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-29 20:32:50,222 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 20:32:50,244 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 20:32:50,250 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 20:32:50,251 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-29 20:32:50,251 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sts-workspace\microservices\003-config-server\src\test\resources
+2021-09-29 20:33:47,963 [Worker-24: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:33:49,240 [Worker-24: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:33:50,357 [Worker-24: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:34:22,591 [Worker-35: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:34:23,959 [Worker-35: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:34:25,368 [Worker-35: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:39:09,775 [Worker-35: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:39:10,996 [Worker-35: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:39:12,084 [Worker-35: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:40:17,757 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jit6:006-profile-service:0.0.1-SNAPSHOT @ D:\sts-workspace\microservices\006-profile-service\pom.xml.
+2021-09-29 20:40:18,741 [Worker-35: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier  to /005-rentcloud-commons/target/classes
+2021-09-29 20:40:19,867 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 20:40:19,867 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-29 20:40:19,867 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 20:40:19,868 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 20:40:19,871 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 20:40:19,871 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-29 20:40:19,871 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sts-workspace\microservices\006-profile-service\src\test\resources
+2021-09-29 20:40:26,221 [Worker-45: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier  to /005-rentcloud-commons/target/classes
+2021-09-29 20:40:34,375 [Worker-41: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:40:35,512 [Worker-41: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:40:36,537 [Worker-41: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:41:45,981 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-29 20:41:46,799 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jit6:006-profile-service:0.0.1-SNAPSHOT @ D:\sts-workspace\microservices\006-profile-service\pom.xml.
+2021-09-29 20:41:47,620 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier  to /005-rentcloud-commons/target/classes
+2021-09-29 20:41:48,458 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /006-profile-service/src/main/java
+2021-09-29 20:41:48,458 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /006-profile-service/src/main/resources
+2021-09-29 20:41:48,459 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /006-profile-service/src/main/resources
+2021-09-29 20:41:48,459 [Worker-46: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /006-profile-service/src/test/java
+2021-09-29 20:41:50,203 [Worker-46: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-09-29 20:41:52,115 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier  to /005-rentcloud-commons/target/classes
+2021-09-29 20:41:52,182 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 20:41:52,182 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-29 20:41:52,183 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 20:41:52,189 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 20:41:52,194 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 20:41:52,194 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-29 20:41:52,194 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sts-workspace\microservices\006-profile-service\src\test\resources
+2021-09-29 20:42:48,381 [Worker-45: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:42:49,498 [Worker-45: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:42:50,529 [Worker-45: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:46:41,046 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 20:46:41,046 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-29 20:46:41,046 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 20:46:41,099 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 20:46:41,104 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 20:46:41,104 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-29 20:46:41,104 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sts-workspace\microservices\003-config-server\src\test\resources
+2021-09-29 20:47:04,590 [Worker-42: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:47:05,824 [Worker-42: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:47:06,971 [Worker-42: Launching 006-profile-service - Application] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/005-rentcloud-commons: com.jit5:004-rentcloud-commons:0.0.1-SNAPSHOT with classifier null to /005-rentcloud-commons/target/classes
+2021-09-29 20:51:36,026 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 20:51:36,026 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-29 20:51:36,027 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-29 20:51:36,088 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-29 20:51:36,144 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-29 20:51:36,144 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-09-29 20:51:36,144 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\sts-workspace\microservices\003-config-server\src\test\resources
