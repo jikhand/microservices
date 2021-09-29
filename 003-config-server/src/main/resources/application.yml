@@ -1,10 +1,15 @@
 server:
-  port: 8091
+  port: 8191
 spring:
   cloud:
     config:
       server:
         git:
-          uri: https://github.com/krish/spring-cloud-config-store
+          #uri: https://github.com/krish/spring-cloud-config-store
+          #search-paths:
+          #- '*service'
           #username:
           #passphrase: 
+          uri: https://github.com/krish/microservices-course-on-youtube-config-storea
+          search-paths: 
+          - 'service-config/*service'
